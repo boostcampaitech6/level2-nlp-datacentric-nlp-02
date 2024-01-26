@@ -255,7 +255,7 @@ $RECYCLE.BIN/
 wandb/
 
 # code
-
+code/
 
 # data
 *.csv
